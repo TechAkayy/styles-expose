@@ -1,0 +1,6 @@
+// SASS variable overrides here
+
+// main.scss
+@use 'vuetify/styles' with (
+	$font-size-root: 50px
+);
